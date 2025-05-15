@@ -44,18 +44,17 @@ This is a quick example of the CLT when using MPT with multiple asset classes
 # Correlation of Assets
 This is very important. You need to see the correlation of assets. You do not want assets to move in the same direction. For example, if a equity asset is negative and a ETF asset is positive, this is good. If you are both positive or both negative, there is close to no diversification. If the correlation is equal to exactly 0, then the securities have no correlation at all.
 
-![HeatMap of Assets](images\correlation_heatmap_assets.png)
+![HeatMap of Assets](images/correlation_heatmap_assets.png)
 
-Say you want to allocate 50% to McDonalds and 50% to QQQ
 # Equations for MPT
 
-![Equations for MPT](images\equations.png)
+![Equations for MPT](images/equations.png)
 
 # The Sharpe Ratio
 - You want to maximize the Sharpe ratio, which is the Risk-Premium divided by the risk of the overall portfolio.
 -The Risk-Free Rate is the default risk of a T-Bill(the Safe Asset)
 
-![Sharpe Ratio Equation](images\sharpe_ratio.jpg)
+![Sharpe Ratio Equation](images/sharpe_ratio.jpg)
 
 
 
